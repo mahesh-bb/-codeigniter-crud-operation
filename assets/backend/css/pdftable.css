@@ -1,0 +1,27 @@
+.txtcolor
+{
+	color: green;
+}
+.rows
+{
+	height: 40px;
+	text-align: center
+}
+.pdftable
+{
+	width: 100%;
+}
+.pdftitle
+{
+	text-align:center
+}
+.srno
+{
+	width: 50px;
+	text-align:center
+}
+.cityw
+{
+	width: 65px;
+	text-align:center
+}

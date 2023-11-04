@@ -1,0 +1,98 @@
+.save-btn{
+  background: #504b8e;
+    border: 0;
+    padding: 12px 40px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 50px;
+}
+.errors{
+    color:  red;
+  }
+  .select2-selection{
+    height: 48px !important;
+    border-color: #ced4da !important;
+    border-radius: 0 !important;
+  }
+  .select2-selection__rendered{
+    margin-top: 9px !important;
+  }
+  .select2-selection__arrow{
+    margin-top: 9px !important;
+  }
+  .form-size{
+
+    width: 40% !important;
+    margin-left: 400px;
+
+  }
+  .resnd_otp_btn{
+    background-color: transparent; 
+    color: #ce1212; 
+    border: none;
+  }
+  .timercouter{
+    color: #ce1212;
+  }
+  .validtimer{
+    display: none;
+    color:  #ce1212;
+    margin-top: -24px;
+    margin-left: 40px;
+  }
+  .login-btns
+  {
+    background: #504b8e !important;
+    margin-left: -320px !important;
+  }
+ .page-title p span{
+    color: #504b8e !important;
+  }
+  .scroll-top
+  {
+    background: #504b8e !important;
+  }
+  .url_link{
+    color: #504b8e !important;
+  }
+  .footer-size{
+        margin-top: 102px;
+  }
+ .profile-btns{
+   background: #504b8e !important;
+  }
+.display-card{
+  width: 25% !important;
+      height: auto;
+          margin-left: -122px;
+}
+.profile-edit-page{
+  margin-top: -173px;
+  margin-left: 210px;
+}
+.profile-edit-page-size{
+  margin-top: 0px !important;
+  box-shadow:  none !important;
+}
+.changepassword{
+  width: 120%;
+}
+.update_password{
+  margin-left: -177px !important;
+}
+.edit-profile{
+      margin-top: 5px;
+}
+.update_user{
+  margin-left: -15px !important;
+}
+.error{
+  color: red;
+}
+.forget-pass{
+  width: 100% !important;
+  margin-left: 30px !important;;
+}
+.forget-pass a{
+  color: blue !important;
+}
